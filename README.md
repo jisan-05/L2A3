@@ -128,7 +128,7 @@ HAVING COUNT(b.booking_id) > 2;
 ```
 
 
-## 🎓 Viva Questions (Bangla, Easy & Simple)
+## 🎓 Viva Questions 
 
 ### 1️⃣ Foreign Key কি? কেন গুরুত্বপূর্ণ?
 - Foreign key হলো একটি column যা অন্য table-এর **primary key** refer করে।  
